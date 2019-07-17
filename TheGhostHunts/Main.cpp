@@ -1,12 +1,12 @@
 /*끝 */
-
+/*test commit asung*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
 #include <string.h>
 
 void howto(void)
-{
+{		
 
 	/*최아성이 커밋합니다*/
 	/*백성진이 커밋합니다 190717*/
