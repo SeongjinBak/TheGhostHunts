@@ -9,6 +9,7 @@ void howto(void)
 {
 
 	/*최아성이 커밋합니다*/
+	/*백성진이 커밋합니다 190717*/
 	int bullet;
 	char enter = 'q';
 
